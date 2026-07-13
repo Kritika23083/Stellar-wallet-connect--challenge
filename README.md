@@ -1,4 +1,4 @@
-# stellar-frontend-challenge# StellarFlow — Stellar Testnet Payment dApp
+# StellarFlow — Stellar Testnet Payment dApp
 
 StellarFlow is a sleek, non-custodial Web3 payment portal built on the Stellar network. It provides a premium, responsive user experience allowing users to connect their Freighter browser extension wallet, check balances, request testnet faucet tokens via Friendbot, validate recipient accounts, and perform fast XLM transfers on the Stellar Testnet.
 
