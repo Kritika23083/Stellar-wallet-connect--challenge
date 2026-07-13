@@ -85,15 +85,10 @@ To test transfers using this application, configure Freighter to point to the St
 
 For your final submission, capture and insert screenshots representing each state:
 
-1. **Disconnected State**: `[Insert screenshot of the homepage showing the 'Connect Freighter Wallet' screen]`
-2. **Wallet Connected State**: `[Insert screenshot displaying the connected wallet address and a wrong network alert if applicable]`
-3. **Balance Displayed**: `[Insert screenshot showing the active XLM balance and the refresh button]`
-4. **Payment Form**: `[Insert screenshot of the form filled with valid values, displaying the Transaction Preview panel]`
-5. **Successful Transaction**: `[Insert screenshot of the success modal with the transaction hash and explorer links]`
+<img width="1600" height="926" alt="WhatsApp Image 2026-07-13 at 7 56 06 PM" src="https://github.com/user-attachments/assets/14b427c8-b1e2-443c-9a78-cff061e92d98" />
+<img width="1600" height="1035" alt="WhatsApp Image 2026-07-13 at 7 56 53 PM" src="https://github.com/user-attachments/assets/abca96b6-6a5d-4686-aff2-181906b931d0" />
+<img width="1600" height="476" alt="WhatsApp Image 2026-07-13 at 7 56 21 PM" src="https://github.com/user-attachments/assets/d75b073a-5929-4eba-9b2e-0b4bc86ef930" />
+
 
 ---
 
-## Testnet Disclaimer
-
-> [!WARNING]
-> This application interacts strictly with the Stellar Testnet network. All assets (XLM) and transactions depicted are for evaluation purposes. Testnet XLM has **no real-world monetary value**. Do not send real/mainnet XLM to these addresses.
